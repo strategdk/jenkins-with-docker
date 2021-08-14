@@ -46,8 +46,8 @@ http://localhost:9080
 ```
  
 ## Refences
-https://www.jenkins.io/doc/book/installing/docker/
-https://docs.docker.com/compose/
+* https://www.jenkins.io/doc/book/installing/docker/
+* https://docs.docker.com/compose/
 
 
 
