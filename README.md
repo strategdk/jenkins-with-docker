@@ -44,7 +44,7 @@ Like:
 ```
 
 ## Access
-Access Jenkins through browser aftern bringing up the Docker Compose setup.
+Access Jenkins through browser after bringing up the Docker Compose setup.
 ```
 http://localhost:9080
 ```
