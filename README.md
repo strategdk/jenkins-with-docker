@@ -24,6 +24,10 @@ Like:
 docker push strategdk/jenkins-with-docker:1.1
 ```
 
+## Pre-build Docker image
+
+https://hub.docker.com/r/strategdk/jenkins-with-docker
+
 ## Bind Mounts
 
 For bind mounts change the volumes section.
@@ -44,7 +48,7 @@ Access Jenkins through browser aftern bringing up the Docker Compose setup.
 ```
 http://localhost:9080
 ```
- 
+
 ## Refences
 * https://www.jenkins.io/doc/book/installing/docker/
 * https://docs.docker.com/compose/
